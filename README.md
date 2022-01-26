@@ -1,8 +1,6 @@
 ### Hi everyone 👋
 
 - 💻 Working with FrontEnd
-- 🌱 I’m currently learning Html, Css, JavaScrip, ReactJS, Node.js, 
-- 📫 How to reach me: for email crabigiovanni@gmail.com
 
 <div align="center">
   <a href="https://github.com/GiovanniCrabi">
