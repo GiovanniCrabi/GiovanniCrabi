@@ -14,8 +14,7 @@
   <img align="center" alt="Giovanni-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Giovanni-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Giovanni-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Giovanni-pic" height="120" style="border-radius:0.25rem;" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif">
-</div>
+  
     
   ##
  
