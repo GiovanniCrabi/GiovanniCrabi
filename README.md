@@ -20,6 +20,10 @@
 <div> 
   <a href="https://www.linkedin.com/in/giovanni-silva-crabi-4522981a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+<div>
+  Portfolio: https://portfolio23-blue.vercel.app/
+</div>
 </div>
   
 
