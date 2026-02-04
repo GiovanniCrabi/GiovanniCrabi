@@ -1,6 +1,4 @@
-### Hi everyone 👋
 
-- 💻 Working with FrontEnd
 
 <div align="start">
   <a href="https://github.com/GiovanniCrabi">
