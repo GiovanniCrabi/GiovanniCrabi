@@ -23,16 +23,12 @@ Currently based in the **UK**, working with React and TypeScript day to day.
 
 ### Tech Stack
 
-<div align="left" style="display: flex; gap: 12px; align-items: center;">
-  <img alt="JavaScript" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-
-  <img alt="TypeScript" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-
-  <img alt="React" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-
-  <img alt="HTML5" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-
-  <img alt="CSS3" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<div align="left" style="display: flex; gap: 12px;">
+  <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp;&nbsp;
+  <img alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">&nbsp;&nbsp;
+  <img alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">&nbsp;&nbsp;
+  <img alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&nbsp;&nbsp;
+  <img alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
 ---
